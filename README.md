@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm This is Kabina G.C.</h1>
 <h3 align="center">A quick and enthusiastic learner with excellent communication skills and a strong work ethic, ready to take on new challenges in the field of computer science.</h3>
-<img align ="right" alt ="learning" width ="500" src = "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
+<img align ="right" alt ="learning" width ="400" src = "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabinagc&label=Profile%20views&color=0e75b6&style=flat" alt="kabinagc" /> </p>
 
 - 🌱 I’m currently learning **Data manipulation, visualization**
