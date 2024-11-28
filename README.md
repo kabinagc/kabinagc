@@ -4,11 +4,11 @@
 <img align ="right" alt ="learning" width ="400" src = "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabinagc&label=Profile%20views&color=0e75b6&style=flat" alt="kabinagc" /> </p>
 
-- 🌱 I’m currently learning **Data manipulation, visualization**
+- 🌱 I’m currently learning **Data analysis algoithms and working on some projects**
 
 - 👯 I’m looking to collaborate on **research and ML related project**
 
-- 🤝 I’m also working on **Steganography project**
+- 🤝 I’m also currently working at **Devfinity** as a **Associate Data Engineer**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
